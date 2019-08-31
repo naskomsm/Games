@@ -1,7 +1,6 @@
 ﻿namespace MuOnline.Core
 {
     using System;
-
     using Contracts;
     using Microsoft.Extensions.DependencyInjection;
 
